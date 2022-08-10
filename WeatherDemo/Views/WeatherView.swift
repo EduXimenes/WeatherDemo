@@ -42,7 +42,7 @@ struct WeatherView: View {
                     }
                     Spacer()
                         .frame(height: 80)
-                    
+                    Spacer()
                     AsyncImage(url: URL(string: "https://cdn.pixabay.com/photo/2020/01/24/21/33/city-4791269_960_720.png")){image in image
                             .resizable()
                             .aspectRatio(contentMode: .fit)
@@ -51,7 +51,7 @@ struct WeatherView: View {
                     }placeholder: {
                         ProgressView()
                     }
-                    Spacer()
+                    
         
                 }
                 .frame(maxWidth:.infinity)
