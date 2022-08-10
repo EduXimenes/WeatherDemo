@@ -1,7 +1,7 @@
 # WeatherDemo
 
-Hello !<br/>
-This is a Weather app demo created from designcode.io class!
+Hello ! 😁 <br/>
+This is a Weather app demo created from designcode.io class!<br/>
 In this project we use the Open Weather to get the Weather with Latitude and Longitude using an API.
 
  <br />  <br /> 
